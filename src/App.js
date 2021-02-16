@@ -4,7 +4,7 @@ import Counter from './components/Counter';
 function App() {
   return (
     <div className="App">
-      <p>The fantastic counter app</p>
+      <p>The fantastic counter!</p>
       <Counter />
     </div>
   );

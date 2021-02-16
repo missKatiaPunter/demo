@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeScreen renders consistently 1`] = `
+<div
+  className="App"
+>
+  <p>
+    The fantastic counter app
+  </p>
+  <div>
+    <button
+      data-testid="counter-button"
+      onClick={[Function]}
+    >
+      0
+    </button>
+  </div>
+</div>
+`;
